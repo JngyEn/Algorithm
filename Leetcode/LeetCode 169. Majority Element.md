@@ -34,6 +34,7 @@ The majority element is the element that appears more than `⌊n / 2⌋` times
 暂时没思路了，想了超过 10min 了，看大佬的
 
 ## 看博客思路之后：
+
 从 **多数元素大于一半** 这个条件出发，使用 **Boyer-Moore 多数投票算法**
 
 原理：
